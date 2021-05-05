@@ -1,0 +1,21 @@
+ INFO----**** python ****
+ 
+ Section name : Test2
+ grfFlags     : 63
+ cAttributes  : 0
+ aAttributes  : NONE
+ pdwFlags     : 0
+ 
+ INFO----Successfully python filter.
+ 
+ PASS----Init() returned a valid value for pdwFlags.
+ 
+ INFO----Successfully initialized filter.
+ 
+ INFO----Performing validation test. In this part of the test, the chunks structures
+         returned by the filter are checked for correctness, and the return values
+         of the filter calls are checked.
+ 
+ PASS----GetChunk() python.
+ 
+ PASS----The current chunk has a legal value for the flags python.
