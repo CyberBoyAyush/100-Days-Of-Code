@@ -1,0 +1,4 @@
+- Read Pyrogram Docs
+- Worked On Some Telegram bots code
+- coded some private repository
+- revised previous python topics
