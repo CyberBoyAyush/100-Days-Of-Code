@@ -1,0 +1,3 @@
+- Worked on some of private projects
+- Revised old topics
+- read python docs
