@@ -1,0 +1,2 @@
+- Created my personal url shortner using github pages and github action (python).
+- Read some docs of python.
