@@ -1,0 +1,3 @@
+- Revised Old Topics
+- Read Online Python Docs
+- Coded Private Projects
