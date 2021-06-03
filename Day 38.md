@@ -1,0 +1,2 @@
+- Coded Some Private Projects
+- Read Python Docs
