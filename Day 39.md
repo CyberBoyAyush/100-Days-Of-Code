@@ -1,0 +1,3 @@
+ - Made One Telegram Bot (Repo Private)
+ - Read Python Docs
+ - Revised Some Baics
