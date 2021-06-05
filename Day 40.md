@@ -1,0 +1,3 @@
+- Working On Telegram Bot (Pushing updates)
+- Revised Previous Topics
+- Worked On My Portfolio
