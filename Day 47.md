@@ -1,0 +1,2 @@
+ - Polished Some Basics of Python
+ - Continued My Flask Learning
