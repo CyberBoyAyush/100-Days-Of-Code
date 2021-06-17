@@ -1,0 +1,2 @@
+- Working On Discord Bot
+- Done Some Open Soruce
