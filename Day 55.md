@@ -1,0 +1,2 @@
+- Craeted One VC Player Telegram bot
+- Doing Django
