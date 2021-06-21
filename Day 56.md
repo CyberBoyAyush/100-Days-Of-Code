@@ -1,0 +1,2 @@
+- Worked On Flask Project
+- Polished Previous Topics Of Python
