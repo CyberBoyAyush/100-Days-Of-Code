@@ -1,0 +1,2 @@
+- Worked On Telegram Bot
+- Learned Pygame
